@@ -34,5 +34,6 @@ A repo following through the tutorial on building websites with Django (the offi
  	- added app_name='polls' line to urls.py in polls to create an app namespace and modified the index.html
 
 4. Tutorial 04: Simple form processing and cutting down the code
-	- updated detail.html to containt a simple form	
+	- updated detail.html to containt a simple form
+	- have NOT made the server respond to the voting action	
 
