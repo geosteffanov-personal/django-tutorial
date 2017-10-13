@@ -30,4 +30,6 @@ A repo following through the tutorial on building websites with Django (the offi
 	- used a shortcut render
 	- added exception handling when there is no specific question
 	- added a shortened version for the error handling
+	- used url name parameter to remove the reliance on a specific url
+ 	- added app_name='polls' line to urls.py in polls to create an app namespace and modified the index.html	
 
