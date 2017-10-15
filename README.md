@@ -47,4 +47,7 @@ A repo following through the tutorial on building websites with Django (the offi
 	- added more extensive tests for the displaying of future questions and the order of displaying published posts
 	- added test cases for viewing details of questions that are in the future
 
+6. Tutorial 06: Static files managing
+	- created 'static/polls' folder in the polls directory
+	- created 'static/polls/images' folder in the polls directory
 
