@@ -45,5 +45,6 @@ A repo following through the tutorial on building websites with Django (the offi
 	- fixed bug of returning True for 'recency' of future blogposts and created an automated test for that
 	- added more extensive test for the 'was\_published_recently method'
 	- added more extensive tests for the displaying of future questions and the order of displaying published posts
-	-
+	- added test cases for viewing details of questions that are in the future
+
 
