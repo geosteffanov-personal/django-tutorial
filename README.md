@@ -35,5 +35,9 @@ A repo following through the tutorial on building websites with Django (the offi
 
 4. Tutorial 04: Simple form processing and cutting down the code
 	- updated detail.html to containt a simple form
-	- have NOT made the server respond to the voting action	
+	- have NOT made the server respond to the voting action
+        - created a results template.
+	- modified the results view
+	- changed the URLconf of the polls app to make use of generic views
+	- created generic view classes	
 
