@@ -39,5 +39,8 @@ A repo following through the tutorial on building websites with Django (the offi
         - created a results template.
 	- modified the results view
 	- changed the URLconf of the polls app to make use of generic views
-	- created generic view classes	
+	- created generic view classes
+
+5. Tutorial 05: Automatic Testing
+	- 	
 
