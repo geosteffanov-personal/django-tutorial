@@ -44,3 +44,4 @@ A repo following through the tutorial on building websites with Django (the offi
 5. Tutorial 05: Automated Testing
 	- fixed bug of returning True for 'recency' of future blogposts and created an automated test for that
 
+
