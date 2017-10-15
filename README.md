@@ -41,6 +41,6 @@ A repo following through the tutorial on building websites with Django (the offi
 	- changed the URLconf of the polls app to make use of generic views
 	- created generic view classes
 
-5. Tutorial 05: Automatic Testing
-	- 	
+5. Tutorial 05: Automated Testing
+	- fixed bug of returning True for 'recency' of future blogposts and created an automated test for that
 
