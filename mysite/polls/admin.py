@@ -7,6 +7,7 @@ class ChoiceInline(admin.TabularInline):
     extra = 3
 
 class QuestionAdmin(admin.ModelAdmin):
+    list_display = ('question_text', 'pub_date')
     fieldsets = [
         (None, {'fields': ['question_text']}),
         ('Date Information', {'fields' : ['pub_date']})
