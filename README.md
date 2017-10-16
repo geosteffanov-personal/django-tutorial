@@ -52,5 +52,12 @@ A repo following through the tutorial on building websites with Django (the offi
 	- created 'static/polls/images' folder in the polls directory
 
 7. Tutorial 07: Admin site
-	- 
+	- changed the order in which the fields of the Question model are displayed
+	- split the fields into two fieldsets
+	- added the inline creation of Choice objects in the Question model panel
+	- changed the stacked inline view to a tabular inline view
+	- added more info on the list view on the Questions panel
+	- added some final touches
+
+FINISHED TUTORIAL
 
