@@ -52,5 +52,5 @@ A repo following through the tutorial on building websites with Django (the offi
 	- created 'static/polls/images' folder in the polls directory
 
 7. Tutorial 07: Admin site
-	
+	- 
 
